@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 54B5-DA5D
+
+ Directory of C:\Users\LENOVO\eclipse-workspace\lab\src\lab
+
+18-02-2019  14:37    <DIR>          .
+18-02-2019  14:37    <DIR>          ..
+18-02-2019  14:03               434 hello2.class
+18-02-2019  13:26               144 hello2.java
+18-02-2019  13:20               430 Main.class
+18-02-2019  12:15               143 Main.java
+18-02-2019  14:37                 0 readmneee.txt
+               5 File(s)          1,151 bytes
+               2 Dir(s)   9,454,645,248 bytes free
